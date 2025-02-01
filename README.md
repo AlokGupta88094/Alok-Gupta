@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [amazone-clone](www.linkedin.com/in/alokgupta88094)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/alokgupta88094](www.linkedin.com/in/alokgupta88094)
+- 👨‍💻 All of my projects are available at [Alok Gupta](www.linkedin.com/in/alokgupta88094)
 
 - 💬 Ask me about **HTML, CSS, JAVA**
 
@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alokgupta88094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokgupta88094" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/alokgupta88094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alokgupta88094" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Alok Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alok Gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/alok_gupta__23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alok_gupta__23" height="30" width="40" /></a>
 </p>
 
